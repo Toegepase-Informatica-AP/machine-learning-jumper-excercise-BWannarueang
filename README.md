@@ -1,16 +1,3 @@
-# Unity ML-Agents: Jumper opdracht
-
-## Benodigdheden
-
-- Unity v...
-- Unity project
-- Python / anaconda
-
-## Installatie & Set-up
-
-- Unity package
-- Python package
-
 ## Project voorbereiding# Unity ML-Agents: Jumper opdracht
 
 Team VR-Brothers: Bunyarit Wannarueang & Younes Hlalem
@@ -48,7 +35,7 @@ Onze jumper zal moeten leren een onderscheid te moeten maken tussen obstakels en
 
 Onze game bevat enkele essentiële basis elementen; zoals de camera en belichting. Daaronder vind men de Environment game-object. Dit was een leeg object waarin we vervolgens alle nodige elementen, die direct impact zullen hebben op de agent, in verzamelen.
 
-![Afbeelding game omgeving](img/2.png)
+![Afbeelding game omgeving](./img/2.png)
 
 Hierin bevinden zich:
 
